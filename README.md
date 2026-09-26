@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sagnik 👋
 
-<!--
-**WanderingNomad47/WanderingNomad47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Cybersecurity Enthusiast | Developer
 
-Here are some ideas to get you started:
+I'm a 2nd-year Computer Science & Engineering student focused on building practical skills in **cybersecurity, programming, and software development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Cybersecurity & security fundamentals
+- Data Structures & Algorithms
+- Python-based projects
+- Exploring real-world security tools and technologies
+
+### 🛠️ Tools & Technologies
+`C` `Python` `Linux` `Git` `GitHub` `VS Code`
+
+### 📫 Reach Me
+- GitHub: https://github.com/WanderingNomad47
+- LinkedIn: www.linkedin.com/in/sagnik-chakraborty-ba7928366
+- Email: sagnikchakraborty.860@gmail.com
+
+---
+
+> Building skills, shipping projects, and learning something new every day.
