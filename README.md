@@ -2,7 +2,7 @@
 
 ### B.Tech CSE Student | Cybersecurity Enthusiast | Developer
 
-I'm a 2nd-year Computer Science & Engineering student focused on building practical skills in **cybersecurity, programming, and software development**.
+I am a 2nd-year Computer Science & Engineering student focused on building practical skills in **cybersecurity, programming, and software development**.
 
 ### 🔭 Currently Working On
 - Cybersecurity & security fundamentals
